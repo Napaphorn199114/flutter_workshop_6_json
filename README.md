@@ -1,6 +1,7 @@
 # workshop_6_json
 
-A new Flutter project.
+import package validators,shared_preferences,http,transparent_image,url_launcher
+Picture file name Example Screenshot_Project
 
 ## Getting Started
 
